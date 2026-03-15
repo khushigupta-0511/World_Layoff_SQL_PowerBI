@@ -8,7 +8,7 @@ The project began as a SQL data cleaning exercise and was later extended to incl
 ## Objectives
 - Clean and standardize a large layoff dataset using SQL.
 - Performing **exploratory data analysis (EDA)** to uncover trends and patterns.
-- Identify** key drives of layoffs** across industries and regions.
+- Identify **key drives of layoffs** across industries and regions.
 - Build a **Power BI dashboard** to communicate insights through visual storytelling.
 - Demonstrate a complete analytics worflow: **Data cleaning - Analysis - Visualization**.
 
